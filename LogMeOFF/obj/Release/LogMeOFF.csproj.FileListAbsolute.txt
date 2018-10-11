@@ -1,0 +1,10 @@
+C:\Users\isaacpva45\documents\visual studio 2015\Projects\LogMeOFF\LogMeOFF\bin\Release\LogMeOFF.exe.config
+C:\Users\isaacpva45\documents\visual studio 2015\Projects\LogMeOFF\LogMeOFF\obj\Release\LogMeOFF.Form1.resources
+C:\Users\isaacpva45\documents\visual studio 2015\Projects\LogMeOFF\LogMeOFF\obj\Release\LogMeOFF.Properties.Resources.resources
+C:\Users\isaacpva45\documents\visual studio 2015\Projects\LogMeOFF\LogMeOFF\obj\Release\LogMeOFF.csproj.GenerateResource.Cache
+C:\Users\isaacpva45\documents\visual studio 2015\Projects\LogMeOFF\LogMeOFF\bin\Release\LogMeOFF.exe
+C:\Users\isaacpva45\documents\visual studio 2015\Projects\LogMeOFF\LogMeOFF\bin\Release\LogMeOFF.pdb
+C:\Users\isaacpva45\documents\visual studio 2015\Projects\LogMeOFF\LogMeOFF\bin\Release\Cassia.dll
+C:\Users\isaacpva45\documents\visual studio 2015\Projects\LogMeOFF\LogMeOFF\obj\Release\LogMeOFF.csprojResolveAssemblyReference.cache
+C:\Users\isaacpva45\documents\visual studio 2015\Projects\LogMeOFF\LogMeOFF\obj\Release\LogMeOFF.exe
+C:\Users\isaacpva45\documents\visual studio 2015\Projects\LogMeOFF\LogMeOFF\obj\Release\LogMeOFF.pdb

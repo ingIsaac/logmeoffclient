@@ -1,0 +1,9 @@
+c:\users\isaacpva45\documents\visual studio 2015\Projects\LogMeOFF\LogMeOFF\bin\Debug\LogMeOFF.exe.config
+c:\users\isaacpva45\documents\visual studio 2015\Projects\LogMeOFF\LogMeOFF\bin\Debug\LogMeOFF.exe
+c:\users\isaacpva45\documents\visual studio 2015\Projects\LogMeOFF\LogMeOFF\bin\Debug\LogMeOFF.pdb
+c:\users\isaacpva45\documents\visual studio 2015\Projects\LogMeOFF\LogMeOFF\obj\Debug\LogMeOFF.csprojResolveAssemblyReference.cache
+c:\users\isaacpva45\documents\visual studio 2015\Projects\LogMeOFF\LogMeOFF\obj\Debug\LogMeOFF.Form1.resources
+c:\users\isaacpva45\documents\visual studio 2015\Projects\LogMeOFF\LogMeOFF\obj\Debug\LogMeOFF.Properties.Resources.resources
+c:\users\isaacpva45\documents\visual studio 2015\Projects\LogMeOFF\LogMeOFF\obj\Debug\LogMeOFF.csproj.GenerateResource.Cache
+c:\users\isaacpva45\documents\visual studio 2015\Projects\LogMeOFF\LogMeOFF\obj\Debug\LogMeOFF.exe
+c:\users\isaacpva45\documents\visual studio 2015\Projects\LogMeOFF\LogMeOFF\obj\Debug\LogMeOFF.pdb
